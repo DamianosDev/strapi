@@ -1,1 +1,3 @@
-examples/**
+examples/kitchensink-ts
+examples/kitchensink
+examples/getstarted
